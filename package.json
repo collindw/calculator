@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "simple calculator app for practice",
+  "main": "functions.js",
+  "scripts": {
+    "test": "playwright test",
+    "results": "npx playwright show-report"
+  },
+  "author": "dev",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1"
+  }
+}

@@ -1,0 +1,27 @@
+.calculator {
+  background-color: black;
+  padding: 1rem 1.5rem 0rem 1.5rem;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+.btn-default{
+    background-color: blueviolet !important;
+}
+
+.btn {
+    margin-bottom: .75rem;
+    margin: 1rem .1rem 1rem .1rem;
+    border-radius: 5px !important;
+    color: white !important;
+}
+
+.keys {
+    color: white;
+}
+
+.display-screen {
+    background-color: rgb(222, 222, 222);
+    border-radius: 5px;
+    margin: 0 .1rem 1rem 0rem;
+}
